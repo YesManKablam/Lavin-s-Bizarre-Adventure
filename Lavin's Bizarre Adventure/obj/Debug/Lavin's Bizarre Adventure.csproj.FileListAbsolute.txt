@@ -1,0 +1,19 @@
+c:\users\conor\documents\visual studio 2012\Projects\Lavin's Bizarre Adventure\Lavin's Bizarre Adventure\obj\Debug\Lavin's Bizarre Adventure.csprojResolveAssemblyReference.cache
+c:\users\conor\documents\visual studio 2012\Projects\Lavin's Bizarre Adventure\Lavin's Bizarre Adventure\obj\Debug\App.g.cs
+c:\users\conor\documents\visual studio 2012\Projects\Lavin's Bizarre Adventure\Lavin's Bizarre Adventure\obj\Debug\About.g.cs
+c:\users\conor\documents\visual studio 2012\Projects\Lavin's Bizarre Adventure\Lavin's Bizarre Adventure\obj\Debug\Credits.g.cs
+c:\users\conor\documents\visual studio 2012\Projects\Lavin's Bizarre Adventure\Lavin's Bizarre Adventure\obj\Debug\Play.g.cs
+c:\users\conor\documents\visual studio 2012\Projects\Lavin's Bizarre Adventure\Lavin's Bizarre Adventure\obj\Debug\Stages\Car\Car1.g.cs
+c:\users\conor\documents\visual studio 2012\Projects\Lavin's Bizarre Adventure\Lavin's Bizarre Adventure\obj\Debug\Stages\Car\Car2.g.cs
+c:\users\conor\documents\visual studio 2012\Projects\Lavin's Bizarre Adventure\Lavin's Bizarre Adventure\obj\Debug\Stages\Car\Car3.g.cs
+c:\users\conor\documents\visual studio 2012\Projects\Lavin's Bizarre Adventure\Lavin's Bizarre Adventure\obj\Debug\Stages\Dead.g.cs
+c:\users\conor\documents\visual studio 2012\Projects\Lavin's Bizarre Adventure\Lavin's Bizarre Adventure\obj\Debug\Stages\Dock\Dock1.g.cs
+c:\users\conor\documents\visual studio 2012\Projects\Lavin's Bizarre Adventure\Lavin's Bizarre Adventure\obj\Debug\Stages\Mill\Mill1.g.cs
+c:\users\conor\documents\visual studio 2012\Projects\Lavin's Bizarre Adventure\Lavin's Bizarre Adventure\obj\Debug\Stages\Mill\Mill2.g.cs
+c:\users\conor\documents\visual studio 2012\Projects\Lavin's Bizarre Adventure\Lavin's Bizarre Adventure\obj\Debug\Stages\Mill\Mill3.g.cs
+c:\users\conor\documents\visual studio 2012\Projects\Lavin's Bizarre Adventure\Lavin's Bizarre Adventure\obj\Debug\Stages\Mill\Mill4.g.cs
+c:\users\conor\documents\visual studio 2012\Projects\Lavin's Bizarre Adventure\Lavin's Bizarre Adventure\obj\Debug\Stages\Office\Office1.g.cs
+c:\users\conor\documents\visual studio 2012\Projects\Lavin's Bizarre Adventure\Lavin's Bizarre Adventure\obj\Debug\Stages\Office\Office2.g.cs
+c:\users\conor\documents\visual studio 2012\Projects\Lavin's Bizarre Adventure\Lavin's Bizarre Adventure\obj\Debug\Stages\Office\Office3.g.cs
+c:\users\conor\documents\visual studio 2012\Projects\Lavin's Bizarre Adventure\Lavin's Bizarre Adventure\obj\Debug\Lavin's Bizarre Adventure.g.resources
+c:\users\conor\documents\visual studio 2012\Projects\Lavin's Bizarre Adventure\Lavin's Bizarre Adventure\obj\Debug\Info.g.cs

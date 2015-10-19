@@ -1,0 +1,44 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Lavin_s_Bizarre_Adventure.Stages.Car.Car1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Text="Driver's Seat" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Margin="12,124,12,10" Grid.RowSpan="2">
+            <TextBlock x:Name="car1" HorizontalAlignment="Left" TextWrapping="Wrap" Text="You sit in a car. There is a glove compartment to your left and a door to your right." VerticalAlignment="Top" Margin="10,12,0,0" Height="464" Width="436"/>
+            <StackPanel x:Name="stack1" HorizontalAlignment="Left" Height="150" Margin="10,474,0,0" VerticalAlignment="Top" Width="436">
+                <Button x:Name="look1button" Content="Look" HorizontalAlignment="Left" VerticalAlignment="Top" Click="look1_Click"/>
+                <Button x:Name="compartmentButton1" Content="Open Compartment" HorizontalAlignment="Left" VerticalAlignment="Bottom" Click="Button_Click_1"/>
+                <Button x:Name="lookID" Content="Look at ID" HorizontalAlignment="Left" VerticalAlignment="Bottom" Click="lookID_Click" Visibility="Collapsed" />
+                <Button x:Name="lookWallet" Content="Look at Wallet" HorizontalAlignment="Left" VerticalAlignment="Top" Click="lookWallet_Click" Visibility="Collapsed"/>
+                <Button x:Name="moveBackseat" Content="Move to backseat" HorizontalAlignment="Left" VerticalAlignment="Top" Click="moveBackseat_Click"  Visibility="Collapsed"/>
+                <Button x:Name="confirm" Content="OK" HorizontalAlignment="Left" VerticalAlignment="Top" Click="confirm_Click"  Visibility="Collapsed"/>
+            </StackPanel>
+
+        </Grid>
+
+    </Grid>
+
+</phone:PhoneApplicationPage>
